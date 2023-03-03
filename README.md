@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anupa Perera</h1>
 <h3 align="center">A passionate Data Enthusiast.</h3>
+<img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Digital_rain_animation_big_letters_shine.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anupa-perera&label=Profile%20views&color=0e75b6&style=flat" alt="anupa-perera" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupa-perera" alt="anupa-perera" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/anupa-perera](https://github.com/anupa-perera)
 
