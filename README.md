@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anupa Perera</h1>
 <h3 align="center">A passionate Data Enthusiast.</h3>
-<img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Digital_rain_animation_small_letters_shine.gif">
+<img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Digital_rain_animation_big_letters_shine.gif">
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/anupa-perera](https://github.com/anupa-perera)
