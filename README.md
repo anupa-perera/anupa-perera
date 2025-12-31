@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anupa Perera</h1>
-<h3 align="center">An undergraduate pursuing a degree in Computer Science. Always looking for opportunities to gain hands-on experience and work on real-world data projects that can help me develop my skills and contribute to the broader data science community.</h3>
+<h3 align="center"> Passionate about the technologies shaping the future of space exploration, renewable energy, blockchain, and the mechanical precision of Formula 1 engineering. Count me in for any challenging projects that revolves around them. </h3>
 
 <br>
 <br>
