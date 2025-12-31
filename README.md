@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **anupaxtream@gmail.com**
 
-- ⚡ Fun fact **Horror gets me laughing as I find it funny.**
+- ⚡ Fun fact **Horror movies are extended comedies hence my favourite genre.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
