@@ -24,5 +24,3 @@
 <br>
 <br>
 <br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anupa-perera&show_icons=true&locale=en" alt="anupa-perera" /></p>
